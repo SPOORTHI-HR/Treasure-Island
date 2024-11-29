@@ -16,8 +16,7 @@ This project is a text-based adventure game called "Treasure Island," implemente
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/treasure-island.git
-   cd treasure-island
+   git clone https://github.com/SPOORTHI-HR/Treasure-Island
    ```
 
 2. **Run the Game**:
